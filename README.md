@@ -1,2 +1,4 @@
-# i18ntests
-i18ntests
+
+===========
+
+test i18n
